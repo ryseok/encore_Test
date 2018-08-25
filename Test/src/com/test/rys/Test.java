@@ -17,6 +17,7 @@ public class Test {
 		System.out.println("회원가입페이지");
 		System.out.println("마이페이지");
 		System.out.println("관리자페이지");
+		System.out.println("로그인 휴효성 검사 추가");
 		
 	}
 }

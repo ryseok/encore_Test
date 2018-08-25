@@ -11,6 +11,9 @@ public class Test {
 	
 	public static void main(String[] args) {
 		System.out.println("충돌돌돌돌돌돌돌돌돌돌돌");
+		System.out.println("충돌돌돌돌돌돌돌돌돌돌돌");
+		System.out.println("충돌돌돌돌돌돌돌돌돌돌돌");
+		System.out.println("충돌돌돌돌돌돌돌돌돌돌돌");
 		
 	}
 }

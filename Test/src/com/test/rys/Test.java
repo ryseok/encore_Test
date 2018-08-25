@@ -15,6 +15,7 @@ public class Test {
 		System.out.println("메인페이지");
 		System.out.println("로그인페이지");
 		System.out.println("회원가입페이지");
+		System.out.println("마이페이지");
 		
 	}
 }

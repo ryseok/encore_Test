@@ -15,6 +15,14 @@ public class Test {
 		System.out.println("충돌 됨?");
 		System.out.println("충돌 됨?");
 		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
+		System.out.println("충돌 됨?");
 		System.out.println("충돌 안됨??");
 		
 	}

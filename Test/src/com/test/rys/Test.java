@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("Hello Git wrold");
 		System.out.println("기능추가");
 		System.out.println("메인페이지");
+		System.out.println("관리자 로그인");
 	}
 }
